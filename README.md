@@ -5,5 +5,5 @@
 4. https://github.com/2303A52451/23CSBTB50/blob/main/AIML_HOUSING_2303A52451.ipynb
 5. https://github.com/2303A52451/23CSBTB50/blob/main/AIML_2303A52451.ipynb
 6. https://github.com/2303A52451/23CSBTB50/blob/main/AIML_LAB_6_2303A52451.ipynb
-7. https://github.com/2303A52451/23CSBTB50/blob/main/SVM_AIML_2451.ipynb
+7. https://github.com/2303A52451/23CSBTB50/blob/main/Assignment_7_2451.ipynb
 8. https://github.com/2303A52451/23CSBTB50/blob/main/Assignment_8_2451.ipynb
